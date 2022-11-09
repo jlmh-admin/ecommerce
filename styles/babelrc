@@ -1,0 +1,8 @@
+/* quizas este archivo no se va a usar
+{
+    "preset": [
+        "next/babel",
+        "@babel/preset-react"
+    ]
+}
+*/

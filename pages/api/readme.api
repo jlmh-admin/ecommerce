@@ -1,0 +1,6 @@
+This folder in this application will contain server side code, that is the back end part.
+and it not going to be rendered in the frontend.
+
+The use of this folder is just for NEXTjs.
+
+That will handle the payment part.
