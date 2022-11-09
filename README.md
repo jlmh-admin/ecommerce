@@ -1,3 +1,5 @@
+TODO: ERROR (1) BUY NOW IN DEPLOYMNET (2) DO NOT CANCEL PAGE IMPLEMENTED (3) THE SHOP NOW PAGE
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 sanity init
